@@ -1,2 +1,4 @@
-class ApplicationController < ActionController::Base
-end
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AjaxApp</title>
